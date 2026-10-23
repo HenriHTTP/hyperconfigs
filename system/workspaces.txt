@@ -1,0 +1,91 @@
+workspace ID 1 (1) on monitor eDP-1:
+	monitorID: 0
+	windows: 1
+	hasfullscreen: 0
+	lastwindow: 0x558160345700
+	lastwindowtitle: bash -c 'set -eu; RE ~
+	ispersistent: 1
+	tiledLayout: dwindle
+
+workspace ID 2 (2) on monitor eDP-1:
+	monitorID: 0
+	windows: 1
+	hasfullscreen: 0
+	lastwindow: 0x558160f261d0
+	lastwindowtitle: Exportar Configurações Hyprland — Mozilla Firefox
+	ispersistent: 1
+	tiledLayout: dwindle
+
+workspace ID 3 (3) on monitor eDP-1:
+	monitorID: 0
+	windows: 0
+	hasfullscreen: 0
+	lastwindow: 0x0
+	lastwindowtitle: 
+	ispersistent: 1
+	tiledLayout: dwindle
+
+workspace ID 4 (4) on monitor eDP-1:
+	monitorID: 0
+	windows: 0
+	hasfullscreen: 0
+	lastwindow: 0x0
+	lastwindowtitle: 
+	ispersistent: 1
+	tiledLayout: dwindle
+
+workspace ID 5 (5) on monitor eDP-1:
+	monitorID: 0
+	windows: 0
+	hasfullscreen: 0
+	lastwindow: 0x0
+	lastwindowtitle: 
+	ispersistent: 1
+	tiledLayout: dwindle
+
+workspace ID 6 (6) on monitor eDP-1:
+	monitorID: 0
+	windows: 0
+	hasfullscreen: 0
+	lastwindow: 0x0
+	lastwindowtitle: 
+	ispersistent: 1
+	tiledLayout: dwindle
+
+workspace ID 7 (7) on monitor eDP-1:
+	monitorID: 0
+	windows: 0
+	hasfullscreen: 0
+	lastwindow: 0x0
+	lastwindowtitle: 
+	ispersistent: 1
+	tiledLayout: dwindle
+
+workspace ID 8 (8) on monitor eDP-1:
+	monitorID: 0
+	windows: 0
+	hasfullscreen: 0
+	lastwindow: 0x0
+	lastwindowtitle: 
+	ispersistent: 1
+	tiledLayout: dwindle
+
+workspace ID 9 (9) on monitor eDP-1:
+	monitorID: 0
+	windows: 0
+	hasfullscreen: 0
+	lastwindow: 0x0
+	lastwindowtitle: 
+	ispersistent: 1
+	tiledLayout: dwindle
+
+workspace ID 10 (10) on monitor eDP-1:
+	monitorID: 0
+	windows: 0
+	hasfullscreen: 0
+	lastwindow: 0x0
+	lastwindowtitle: 
+	ispersistent: 1
+	tiledLayout: dwindle
+
+
